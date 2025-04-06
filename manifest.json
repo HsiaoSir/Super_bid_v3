@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "臺北惜物網下單助手",
+  "version": "1.0",
+  "description": "自動下單輔助工具，支援自定義時間和價格級距",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://shwoo.gov.taipei/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+} 
