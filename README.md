@@ -114,4 +114,26 @@ For any issues or suggestions, please contact the development team.
 
 ### 版本資訊 | Version Info
 當前版本 | Current Version: v3.0
-更新日期 | Last Updated: 2024/03 
+更新日期 | Last Updated: 2024/03
+
+---
+
+### AI 開發聲明 | AI Development Statement
+
+#### 繁體中文
+本專案採用 AI 輔助開發方式完成：
+- 使用 Cursor IDE 作為開發環境
+- 約 90% 的程式碼由 AI 協助生成
+- 開發過程中使用 AI 進行程式碼優化和除錯
+- 專案文檔也由 AI 協助撰寫和格式化
+
+我們相信在 AI 時代，善用 AI 工具能夠提高開發效率和程式碼品質。在此特別感謝 Cursor IDE 和其強大的 AI 功能，使本專案的開發過程更加順暢和高效。
+
+#### English
+This project was developed with AI assistance:
+- Using Cursor IDE as the development environment
+- Approximately 90% of the code was generated with AI assistance
+- AI was used for code optimization and debugging during development
+- Project documentation was also written and formatted with AI assistance
+
+We believe that in the AI era, leveraging AI tools can improve development efficiency and code quality. Special thanks to Cursor IDE and its powerful AI capabilities for making the development process of this project smoother and more efficient. 
